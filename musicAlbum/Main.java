@@ -148,7 +148,7 @@ public class Main {
                     break;
 
             }
-        }
+        }scanner.close();
     }
 
     private static void printMenu() {

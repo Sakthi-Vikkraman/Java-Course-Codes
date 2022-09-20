@@ -1,4 +1,4 @@
-package musicAlbum;
+package MusicAlbum;
 import java.util.*;
 public class Main {
     private static ArrayList<Album> albums = new ArrayList<Album>();

@@ -1,4 +1,4 @@
-package musicAlbum;
+package MusicAlbum;
 
 public class Song {
     private String title;
